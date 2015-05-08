@@ -94,42 +94,9 @@
             GP MXH: Số 116/GXN-TTĐT. <br>
             Copyright ©2012 hdviet.com. All Rights Reserved.</p>
     </div>
-</div>        </div>
-
-
-<div id="blueseed-4c42d737a1f16895aadf520c357bbc8d"></div>            <!-- BEGIN TAG - DO NOT MODIFY -->
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/show_ads_blueseed.js"></script>
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/ads-sync.js"></script>
-<!-- HDV_Home_Popup -->
-<div id="div-gpt-ad-1427272606310-0" style="width: 1px; height: 1px;">
-    <div style="border: 0pt none;" id="google_ads_iframe_/29309823/WM_Home_Balloon_Script_0__container__">
-        <iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"
-                style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0" scrolling="no"
-                name="google_ads_iframe_/29309823/WM_Home_Balloon_Script_0"
-                id="google_ads_iframe_/29309823/WM_Home_Balloon_Script_0" frameborder="0" height="1" width="1"></iframe>
-    </div>
-    <iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"
-            style="border: 0px none; vertical-align: bottom; visibility: hidden; display: none;" marginheight="0"
-            marginwidth="0" scrolling="no" name="google_ads_iframe_/29309823/WM_Home_Balloon_Script_0__hidden__"
-            id="google_ads_iframe_/29309823/WM_Home_Balloon_Script_0__hidden__" frameborder="0" height="0"
-            width="0"></iframe>
 </div>
-<!-- END TAG -->
-
-<!--==========Event Popup============-->
-<div id="contentevent" style="display: none;">
-    <div class="popup">
-        <div id="hide-popup1">
-            <img id="checkDef"
-                 src="<?php echo STATIC_FILE_PATH?>/check-popup304.png">
-            <img style="display: none;" id="checkUnvisible"
-                 src="<?php echo STATIC_FILE_PATH?>/checked-popup304.png">
-        </div>
-    </div>
 </div>
-<!--End Event-->
+
 <div id="Footer">
     <div id="Footer-in">
         <ul class="cf footermenu">
@@ -170,25 +137,9 @@
 
 <script type="text/javascript" src="<?php echo STATIC_FILE_PATH?>/js/global.js"></script>
 <script type="text/javascript" src="<?php echo STATIC_FILE_PATH?>/js/hdv.js"></script>
-<script gapi_processed="true" src="<?php echo STATIC_FILE_PATH?>/js/client.js"></script>
-<script src="<?php echo STATIC_FILE_PATH?>/js/sdk.js" id="facebook-jssdk"></script>
-<script gapi_processed="true" src="<?php echo STATIC_FILE_PATH?>/js/platform.js" async="" type="text/javascript"></script>
 
-
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/unslider.js"></script>
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/hdv_003.js"></script>
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/hdv_004.js"></script>
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/hdv_002.js"></script>
-<script type="text/javascript"
-        src="<?php echo STATIC_FILE_PATH?>/js/gw.js"></script>
-<script src="<?php echo STATIC_FILE_PATH?>/js/check_359604.js"
-        type="text/javascript" async=""></script>
-<script src="<?php echo STATIC_FILE_PATH?>/js/check_359604.js"
-        type="text/javascript" async=""></script>
+<script type="text/javascript" src="<?php echo STATIC_FILE_PATH?>/js/unslider.js"></script>
+<script type="text/javascript" src="<?php echo STATIC_FILE_PATH?>/js/hdv_004.js"></script>
 
 <div class="" style="position: absolute; width: 280px; left: 191.5px; z-index: 10000; top: 598px; display: none;"
      id="cluetip">

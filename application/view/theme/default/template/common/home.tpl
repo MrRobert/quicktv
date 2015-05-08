@@ -156,22 +156,14 @@
     </div>
 </div>
 <div class="box-adv-730x90 mt-10">
-    <!--Home_Top_728x90-->
     <div style="height: 0px; margin: 0px; padding: 0px; border: 0px none; background: none repeat scroll 0% 0% transparent; font-size: 0px;"
          id="blueseed-a4caf27b17d4f6b0a0cd912e6fd33297-728x90">
 
-        <!-- HDV_Home_Top -->
         <div id="div-gpt-ad-1418838422113-0">
-            <div style="border: 0pt none;" id="google_ads_iframe_/29309823/WM_Home_Top_0__container__">
-                <iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"
-                        style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0"
-                        scrolling="no" name="google_ads_iframe_/29309823/WM_Home_Top_0"
-                        id="google_ads_iframe_/29309823/WM_Home_Top_0" frameborder="0" height="90" width="728"></iframe>
-            </div>
+            <div id="ad-banner"></div>
         </div>
     </div>
 </div>
-<!--Phim ?? c? + HOT-->
 <div class="box-ribbon mt-10 box-ribbonadv">
     <div class="h2-ttl cf"><h2 class="h2-ttlin fl-left"><a style="padding-left: 28px;"
                                                            href="http://movies.hdviet.com/phim-hdviet-de-cu.html"
@@ -937,67 +929,12 @@ xem không kh?i trông ??i ? nh?ng t?p ti?p theo.</span> <span class="parent-tip
         </li>
     </ul>
 </div>
-<!--END Phim ?? c? + HOT-->
 <div class="box-adv-730x90 mt-10">
     <!--Home_Middle_728x90-->
-    <div style="height: 0px; margin: 0px; padding: 0px; border: 0px none; background: none repeat scroll 0% 0% transparent; font-size: 0px;"
-         id="blueseed-fcaa9bb3960ba9b1204fbe13be4eee34-728x90">
-        <script type="text/javascript">
-            var googletag = googletag || {};
-            googletag.cmd = googletag.cmd || [];
-            (function () {
-                var gads = document.createElement('script');
-                gads.async = true;
-                gads.type = 'text/javascript';
-                var useSSL = 'https:' == document.location.protocol;
-                gads.src = (useSSL ? 'https:' : 'http:') +
-                        '//www.googletagservices.com/tag/js/gpt.js';
-                var node = document.getElementsByTagName('script')[0];
-                node.parentNode.insertBefore(gads, node);
-            })();
-        </script>
-
-        <script type="text/javascript">
-            googletag.cmd.push(function () {
-                googletag.defineSlot('/29309823/WM_Home_Mid1', [
-                    [728, 90],
-                    [980, 90]
-                ], 'div-gpt-ad-1418838522494-0').addService(googletag.pubads());
-                googletag.pubads().enableSingleRequest();
-                googletag.enableServices();
-            });
-        </script>
-        <!-- HDV_Home_Mid1 -->
+    <div style="height: 0px; margin: 0px; padding: 0px; border: 0px none; background: none repeat scroll 0% 0% transparent; font-size: 0px;">
         <div id="div-gpt-ad-1418838522494-0">
-            <script type="text/javascript">
-                googletag.cmd.push(function () {
-                    googletag.display('div-gpt-ad-1418838522494-0');
-                });
-            </script>
-            <div style="border: 0pt none;" id="google_ads_iframe_/29309823/WM_Home_Mid1_0__container__">
-                <iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"
-                        style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0"
-                        scrolling="no" name="google_ads_iframe_/29309823/WM_Home_Mid1_0"
-                        id="google_ads_iframe_/29309823/WM_Home_Mid1_0" frameborder="0" height="90"
-                        width="728"></iframe>
-            </div>
+            <div id="ads-banner"></div>
         </div>
-        <!-- Begin comScore Tag -->
-        <script>
-            var _comscore = _comscore || [];
-            _comscore.push({ c1: "8", c2: "18296059", c3: "1500" });
-            (function () {
-                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
-                s.async = true;
-                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-                el.parentNode.insertBefore(s, el);
-            })();
-        </script>
-        <noscript>
-            <img src="http://b.scorecardresearch.com/p?c1=8&c2=18296059&c3=1500&c15=&cv=2.0&cj=1"/>
-        </noscript>
-        <!-- End comScore Tag -->
-        <script type="text/javascript">new Image().src = "http://blueserving.com" + "/no-im" + "pressi" + "on.gif?p=341&ch=" + "&l=VN" + "&h=a15a1c941782b3346897875f5751a211&t=" + new Date().getTime() + "&s=0539958134eaf883a81a862189c16862";</script>
     </div>
 </div>
 <!--Phim M?i c?p nh?t-->
@@ -1723,64 +1660,11 @@ c?nh sát k? c?u, và là n?i khi?p s? ??i v?i các b?ng ??ng t?i ph?m...</span>
 </div>
 <div class="box-adv-730x90 mt-10">
     <!--Home_Bottom_728x90-->
-    <div style="height: 0px; margin: 0px; padding: 0px; border: 0px none; background: none repeat scroll 0% 0% transparent; font-size: 0px;"
-         id="blueseed-a3a0738acd84affe52b2859017dba781-728x90">
-        <script type="text/javascript">
-            var googletag = googletag || {};
-            googletag.cmd = googletag.cmd || [];
-            (function () {
-                var gads = document.createElement('script');
-                gads.async = true;
-                gads.type = 'text/javascript';
-                var useSSL = 'https:' == document.location.protocol;
-                gads.src = (useSSL ? 'https:' : 'http:') +
-                        '//www.googletagservices.com/tag/js/gpt.js';
-                var node = document.getElementsByTagName('script')[0];
-                node.parentNode.insertBefore(gads, node);
-            })();
-        </script>
-
-        <script type="text/javascript">
-            googletag.cmd.push(function () {
-                googletag.defineSlot('/29309823/WM_Home_Bottom', [
-                    [728, 90],
-                    [980, 90]
-                ], 'div-gpt-ad-1418838670976-0').addService(googletag.pubads());
-                googletag.pubads().enableSingleRequest();
-                googletag.enableServices();
-            });
-        </script>
+    <div style="height: 0px; margin: 0px; padding: 0px; border: 0px none; background: none repeat scroll 0% 0% transparent; font-size: 0px;">
         <!-- HDV_Home_Bottom -->
         <div id="div-gpt-ad-1418838670976-0">
-            <script type="text/javascript">
-                googletag.cmd.push(function () {
-                    googletag.display('div-gpt-ad-1418838670976-0');
-                });
-            </script>
-            <div style="border: 0pt none;" id="google_ads_iframe_/29309823/WM_Home_Bottom_0__container__">
-                <iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;"
-                        style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0"
-                        scrolling="no" name="google_ads_iframe_/29309823/WM_Home_Bottom_0"
-                        id="google_ads_iframe_/29309823/WM_Home_Bottom_0" frameborder="0" height="90"
-                        width="980"></iframe>
-            </div>
+            <div style="border: 0pt none;" id="google-ads"></div>
         </div>
-        <!-- Begin comScore Tag -->
-        <script>
-            var _comscore = _comscore || [];
-            _comscore.push({ c1: "8", c2: "18296059", c3: "1600" });
-            (function () {
-                var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
-                s.async = true;
-                s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-                el.parentNode.insertBefore(s, el);
-            })();
-        </script>
-        <noscript>
-            <img src="http://b.scorecardresearch.com/p?c1=8&c2=18296059&c3=1600&c15=&cv=2.0&cj=1"/>
-        </noscript>
-        <!-- End comScore Tag -->
-        <script type="text/javascript">new Image().src = "http://blueserving.com" + "/no-im" + "pressi" + "on.gif?p=344&ch=" + "&l=VN" + "&h=ec2f13074af97e7d76c7938fcc39d490&t=" + new Date().getTime() + "&s=0539958134eaf883a81a862189c16862";</script>
     </div>
 </div>
 <div class="box-ribbon mt-10 box-ribbonadv">

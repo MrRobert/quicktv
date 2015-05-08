@@ -10,6 +10,5 @@ class ControllerCommonHeader extends Controller {
 		}
 
 	    return $this->load->view('default/template/common/header.tpl', $data);
-		
 	}
 }

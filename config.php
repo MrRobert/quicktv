@@ -1,8 +1,10 @@
 <?php
 // HTTP
 define('HTTP_SERVER', 'http://localhost/quicktv/');
-define('STATIC_PATH', 'D:/xampp/htdocs/quicktv');
+define('STATIC_PATH', '/var/www/html/quicktv');
 define('STATIC_FILE_PATH', HTTP_SERVER . 'application/view/theme/default/static');
+define('IMAGE_PATH' , HTTP_SERVER . 'image/catalog/data/');
+
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/quicktv/');
 
