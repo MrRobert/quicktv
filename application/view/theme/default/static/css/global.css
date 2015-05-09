@@ -500,7 +500,7 @@ textarea::-moz-selection {
     height: 50px
 }
 #Header #Logo {
-    margin: 4px 30px 0 10px;
+    margin: -1px 30px 0 24px;
     display: inline-block;
     float: left
 }
@@ -1034,7 +1034,7 @@ li.childcols2 a {
     height: 46px;
     display: block;
     text-align: center;
-    background: #f5cc2a;
+    background: #8E502B;
     position: relative;
     z-index: 10000
 }
@@ -1044,7 +1044,7 @@ li.childcols2 a {
     display: block;
     margin: 0 auto;
     position: relative;
-    background: #f5cc2a
+    background: #8E502B;
 }
 .footermenu li {
     position: relative;
@@ -1090,7 +1090,7 @@ li.childcols2 a {
     border-radius: 5px;
     display: block;
     border: 0;
-    margin: 12px 0 0
+    margin: 9px 0 0
 }
 .headerver {
     background: #f5cc2a!important
@@ -1120,7 +1120,7 @@ li.childcols2 a {
     background: url(images/sprite1.png) right -262px no-repeat
 }
 .headerver1 {
-    background: #f5cc2a!important
+    background: #AC322F!important
 }
 .headerver1 ul li a.mainitem {
     color: #1a1918!important
@@ -1168,7 +1168,7 @@ li.childcols2 a {
 }
 .h2-ttl a {
     font-size: 16px;
-    color: #a78613;
+    color: #A94A2C;
     padding-left: 18px;
     font-family: Tahoma;
     text-transform: capitalize
